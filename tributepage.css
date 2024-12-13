@@ -1,0 +1,21 @@
+h1, h2, h3, a{
+    text-align: center;
+    background-color: blueviolet;
+    color: blanchedalmond;
+  }
+  .image{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    max-width: 100%;
+    display: block;
+  }
+  .img-caption{
+    color: blanchedalmond;
+    background-color: blueviolet;
+    text-align: center;
+  }
+  .tribute-link{
+    text-align: center;
+  }

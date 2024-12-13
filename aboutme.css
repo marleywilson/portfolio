@@ -1,0 +1,20 @@
+.Aboutme{
+    font-size: 50px;
+    color: green;
+}
+.Projects{
+    font-size: 50px;
+    color: blue;
+}
+.info{
+    font-size: 20px;
+    color: lightgreen
+}
+.projectname{
+    font-size: 20px;
+    color: lightseagreen;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
